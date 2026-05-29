@@ -130,13 +130,14 @@ val aamir = Developer(
  
 ## 📊 GitHub Stats
  
-
 <div align="center">
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Noddy8&theme=tokyonight&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=F472B6&currStreakLabel=2DD4BF)](https://git.io/streak-stats)
  
 </div>
 <div align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noddy8&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=F472B6&area=true&hide_border=true)
+
+ ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noddy8&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=F472B6&area=true&hide_border=true)
 </div>
 
 ---
