@@ -132,7 +132,7 @@ val aamir = Developer(
  
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Noddy8&theme=tokyonight&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=F472B6&currStreakLabel=2DD4BF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Noddy8&theme=tokyonight&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=F472B6&currStreakLabel=2DD4BF)](https://git.io/streak-stats)
  
 </div>
 <div align="center">
