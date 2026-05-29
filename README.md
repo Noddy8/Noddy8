@@ -130,28 +130,13 @@ val aamir = Developer(
  
 ## 📊 GitHub Stats
  
-<div align="center">
-<!-- 
-  ⚠️ IF STATS SHOW "Error Fetching Resource":
-  The public github-readme-stats instance is rate-limited.
-  Fix: Deploy your own FREE instance in 2 minutes →
-  1. Go to https://github.com/anuraghazra/github-readme-stats
-  2. Click "Deploy to Vercel" button in the README
-  3. Add env variable: PAT_1 = your GitHub Personal Access Token
-     (GitHub → Settings → Developer settings → Personal access tokens → Generate new token → select "repo" scope)
-  4. Replace "github-readme-stats.vercel.app" below with your own Vercel URL
--->
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noddy8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&count_private=true&cache_seconds=86400" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noddy8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=94A3B8&langs_count=8&cache_seconds=86400" />
-</div>
+
 <div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Noddy8&theme=tokyonight&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=F472B6&currStreakLabel=2DD4BF)](https://git.io/streak-stats)
  
 </div>
 <div align="center">
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noddy8&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=F472B6&area=true&hide_border=true)
- 
 </div>
 
 ---
