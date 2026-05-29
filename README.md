@@ -131,19 +131,12 @@ val aamir = Developer(
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noddy8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noddy8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=94A3B8&langs_count=8" />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noddy8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=94A3B8&count_private=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noddy8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=94A3B8&langs_count=8&cache_seconds=1800" />
 </div>
-
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Noddy8&theme=tokyonight&hide_border=true&background=0D1117&stroke=2DD4BF&ring=2DD4BF&fire=F472B6&currStreakLabel=2DD4BF)](https://git.io/streak-stats)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noddy8&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=FFFFFF&area=true&area_color=2DD4BF" width="100%" />
 </div>
-
 ---
 
 ## 🎓 Certifications
